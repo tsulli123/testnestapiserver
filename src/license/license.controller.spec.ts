@@ -63,7 +63,6 @@ describe('License Controller', () => {
     } catch (e) {
       console.log(e);
     }
-
   });
 
   it('should edit license', async () => {
